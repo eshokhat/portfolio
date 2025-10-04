@@ -2368,9 +2368,6 @@ button,
 }
 
 
-<<<<<<< HEAD
-=======
-
 :root{
   --blue-900:#2F4B7C;
   --blue-700:#4C78A8;
@@ -2459,4 +2456,3 @@ ul.contact li:before,
 
 
 .box.alt{ background:var(--bg) !important; border:0 !important; }
->>>>>>> local-work
