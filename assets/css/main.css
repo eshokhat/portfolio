@@ -994,11 +994,8 @@ header p {
   text-transform: uppercase; }
 
 header.major > :last-child {
-<<<<<<< HEAD
   border-bottom: solid 3px #AF8F6E;
-=======
   border-bottom: solid 3px var(--blue-700);
->>>>>>> local-work
   display: inline-block;
   margin: 0 0 2em 0;
   padding: 0 0.75em 0.5em 0; }
@@ -1212,17 +1209,14 @@ input[type="radio"] + label:before {
 
 /* Image */
 .project-image {
-<<<<<<< HEAD
   max-height: 200px;
   width: auto;
   border: 2px solid #AF8F6E;
-=======
   height: 200px;
   width: 100%;
   border: 2px solid #AF8F6E;
   object-position: center;
   object-fit: cover;
->>>>>>> local-work
   display: block; 
   margin: 0 auto; 
 }
