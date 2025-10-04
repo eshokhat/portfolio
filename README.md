@@ -1,6 +1,12 @@
-# Ephraim Shochat – Data Analytics Portfolio
+# Ephraim Shochat – Data Analytics Portfolio 
 
-Welcome. This portfolio highlights projects that show how I work with data: turning raw information into clear insights and actionable outcomes. My background comes from working directly with customers and operational processes, which shaped my focus on building practical, data-driven solutions that connect real business context with technical analysis.
+Welcome. 
+
+This portfolio highlights projects that show how I work with data: turning raw information into clear insights and actionable outcomes. 
+
+My background comes from working directly with customers and operational processes, which shaped my focus on building practical, data-driven solutions that connect real business context with technical analysis.
+
+
 ---
 
 ## 🌐 Live Portfolio  
