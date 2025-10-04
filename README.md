@@ -27,15 +27,19 @@ Each project was built from real analytical logic: defining the business questio
 ## Featured Projects
 
 ### **Customer Support Dashboard**  
+
 A full Excel dashboard built from a Python-generated synthetic dataset.  
 It tracks support volume, escalation rates, and resolution trends over a simulated year — built to showcase the workflow from raw data to actionable insight.  
 This project highlights **KPI design, pivot modeling, and dashboard visualization** in Excel.
 
 ### **Debt Visualizer**  
-An interactive **Streamlit** app comparing loan repayment schedules under annuity and linear methods.  
-Created to simplify financial decision-making through clear, visual representation of cost over time.
+
+An interactive loan amortization tool built with Streamlit, Plotly, and Pandas.
+The app allows users to compare annuity vs. linear repayment schedules, experiment with loan parameters, and instantly see how total payments and interest evolve over time.
+This project demonstrates skills in financial modeling, dynamic data pipelines, and intuitive visualization, aimed at making complex financial decisions cleare
 
 ### **Olim Dashboard**  
+
 A **Power BI** dashboard analyzing immigration trends to Israel (2015–2023).  
 Built from official public data, it combines **time, geography, and segmentation filters** to explore demographic and policy insights.
 
