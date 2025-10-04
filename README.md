@@ -1,9 +1,6 @@
 # Ephraim Shochat – Data Analytics Portfolio
 
-Welcome.  
-This portfolio brings together selected projects that reflect how I think with data — turning scattered information into clear insights and practical decisions.  
-My background bridges **Customer Success**, **finance operations**, and **data analysis**, so I focus not only on metrics but on the people and processes behind them.
-
+Welcome. This portfolio highlights projects that show how I work with data: turning raw information into clear insights and actionable outcomes. My background comes from working directly with customers and operational processes, which shaped my focus on building practical, data-driven solutions that connect real business context with technical analysis.
 ---
 
 ## 🌐 Live Portfolio  
@@ -11,7 +8,7 @@ My background bridges **Customer Success**, **finance operations**, and **data a
 
 ---
 
-## 🧰 Tools & Technologies  
+## Tools & Technologies  
 I work primarily with:  
 - **Excel / Power BI / SQL / Python** – data analysis, modeling, and visualization  
 - **HTML / CSS** – structure and styling of this site  
@@ -21,7 +18,7 @@ Each project was built from real analytical logic: defining the business questio
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
 ### **Customer Support Dashboard**  
 A full Excel dashboard built from a Python-generated synthetic dataset.  
@@ -38,7 +35,7 @@ Built from official public data, it combines **time, geography, and segmentation
 
 ---
 
-## 📁 Structure
+## Structure
 portfolio/
 ├── index.html # Main page with featured projects
 ├── about.html # Background and contact info
@@ -49,12 +46,13 @@ portfolio/
 └── README.md
 
 ---
-## 🏗️ Local Preview  
+##  Local Preview  
 ```bash
 git clone git@github.com:eshokhat/portfolio.git
 cd portfolio
 open index.html
+```
 
-✳️ Notes
+## Notes
 All datasets are synthetic or public, created solely for analytical demonstration.
 This portfolio reflects my focus on clarity, structure, and practical storytelling — using data not just to measure, but to explain.
