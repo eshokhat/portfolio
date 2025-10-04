@@ -38,7 +38,7 @@ Built from official public data, it combines **time, geography, and segmentation
 
 ---
 
-## 📄 Structure
+## Structure
 portfolio/
 ├── index.html # Main page with featured projects
 ├── about.html # Background and contact info
@@ -58,6 +58,7 @@ cd portfolio
 open index.html
 
 ---
-## **Notes**
+
+✳️ Notes
 All datasets are synthetic or public, created solely for analytical demonstration.
 This portfolio reflects my focus on clarity, structure, and practical storytelling — using data not just to measure, but to explain.
