@@ -1693,21 +1693,20 @@ button,
 
 
 /* Posts */
-.posts {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 0 0 2em -6em;
-    width: calc(100% + 6em); }
-  .posts article {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    margin: 0 0 6em 6em;
-    position: relative;
-    width: calc(33.33333% - 6em);
-    min-height: 500px;}
 
+.posts{
+  display:grid;
+  grid-template-columns:repeat(3, minmax(0,1fr));
+  gap:6em;
+  margin:0;
+  width:100%;
+  }
+  .posts article{
+    margin:0;
+    width:auto;
+    min-height:520px;
+    position:relative;
+    }
     .posts article .image {
       display: block;
       margin: 0 0 2em 0;}
@@ -1722,32 +1721,15 @@ button,
     .posts article .actions {
       margin-top: auto;}
 
-    .posts article:before {
-      background: rgba(210, 215, 217, 0.75);
-      content: '';
-      display: block;
-      height: calc(100% + 6em);
-      left: -3em;
-      position: absolute;
-      top: 0;
-      width: 1px;}
-
-    .posts article:after {
-      background: rgba(210, 215, 217, 0.75);
-      bottom: -3em;
-      content: '';
-      display: block;
-      height: 1px;
-      position: absolute;
-      right: 0;
-      width: calc(100% + 6em);}
+    .posts article:before,
+    .posts article:after{ display:none; }
 
     .posts article > :last-child {
       margin-bottom: 0;}
 
-  @media screen and (min-width: 1681px) {
-      .posts article:nth-child(3n + 1):before {
-        display: none;
+
+  @media screen and (max-width:1680px){
+  .posts article{ width:calc((100% - 6em)/2); }
       }
 
       .posts article:nth-child(3n + 1):after {
@@ -1770,7 +1752,7 @@ button,
       .posts article:nth-last-child(2):after,
       .posts article:nth-last-child(3):after {
         display: none;
-      }}
+      }
 
   @media screen and (max-width: 1680px) {
       .posts article {

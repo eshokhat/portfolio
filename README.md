@@ -26,6 +26,18 @@ Each project was built from real analytical logic: defining the business questio
 
 ## Featured Projects
 
+### **Savings Plans Analysis Dashboard**
+A **two-page Looker Studio dashboard** visualizing Israeli bank savings-plan data.  
+Processed **51,975 official records** into **1,134 analytical observations** using Python (pandas).  
+Reveals **rate differences across banks, plan types, and age groups**, identifies **negative-yield programs** (e.g., Yahav −5.5%), and confirms **market rate stability within ±0.1%**.
+
+
+### **FP&A Scenario Model (2023–2024)**
+
+A **Google Sheets–based financial model** simulating Base, Optimistic, and Pessimistic scenarios with monthly granularity.  
+Automates **revenue, OPEX, and tax flows** via live XLOOKUP aggregation into a summary dashboard.  
+Visualizes **scenario outcomes** with comparative charts for Revenue, OPEX, and Net Income.
+
 ### **Customer Support Insights Dashboard**  
 
 A full Excel dashboard built from a Python-generated synthetic dataset.  
@@ -34,9 +46,9 @@ This project highlights **KPI design, pivot modeling, and dashboard visualizatio
 
 ### **Loan Repayment Comparison Tool**  
 
-An interactive loan amortization tool built with Streamlit, Plotly, and Pandas.
-The app allows users to compare annuity vs. linear repayment schedules, experiment with loan parameters, and instantly see how total payments and interest evolve over time.
-This project demonstrates skills in financial modeling, dynamic data pipelines, and intuitive visualization, aimed at making complex financial decisions cleare
+An interactive loan amortization tool built with Streamlit, Plotly, and Pandas.  
+The app allows users to compare annuity vs. linear repayment schedules, experiment with loan parameters, and instantly see how total payments and interest evolve over time. 
+This project demonstrates skills in financial modeling, dynamic data pipelines, and intuitive visualization, aimed at making complex financial decisions clearer.  
 
 ### **Aliyah Trends Dashboard (2015–2023)**  
 
