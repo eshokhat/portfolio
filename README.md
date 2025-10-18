@@ -58,14 +58,14 @@ Built from official public data, it combines **time, geography, and segmentation
 ---
 
 ## Structure
-portfolio/
-├── index.html # Main page with featured projects
-├── about.html # Background and contact info
-├── projects.html # Project descriptions and links
-├── assets/ # Images, icons, CV
-├── css/ # Stylesheets
-├── .gitignore
-└── README.md
+portfolio/  
+├── index.html # Main page with featured projects  
+├── about.html # Background and contact info  
+├── projects.html # Project descriptions and links  
+├── assets/ # Images, icons, CV  
+├── css/ # Stylesheets  
+├── .gitignore  
+└── README.md  
 
 ---
 ##  Local Preview  
